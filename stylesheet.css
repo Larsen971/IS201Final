@@ -1,0 +1,54 @@
+
+
+.body {
+    background-color: aqua !important;
+    font-family: sans-serif !important;
+    color: darkslategray !important;
+}
+
+
+    .body {
+    border: 300px !important;
+    background-color: coral !important;
+    height: 200px !important;
+    border-radius: 25px !important;
+    font-weight: bold !important;
+    border: solid !important;
+    
+}
+
+    .footer {
+    
+    background-color: coral !important;
+    text-align: center !important;
+    border-radius: 25px !important;
+    border: solid !important;
+}
+
+    .bold {
+
+    font-weight: bolder !important;
+}
+
+    .underline {
+    text-decoration: underline !important;
+    text-align: left !important;
+}
+
+    .nav {
+    text-align: right !important;
+    padding: 10px !important;
+    background-color: coral !important;
+    border: 25px !important;
+    border-radius: 25px !important;
+    border: solid !important;
+    padding-bottom: 15px !important;
+    
+}
+
+    .top {
+    text-decoration: underline !important;
+    text-align: center !important;
+    
+}
+
